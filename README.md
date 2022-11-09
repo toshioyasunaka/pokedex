@@ -1,0 +1,2 @@
+# pokedex
+ clone pokedex project
